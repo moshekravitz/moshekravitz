@@ -7,7 +7,7 @@ My name is moshe kravitz, currently working in a Devops job, and I'm a third yea
 🐍 Python  &nbsp; • &nbsp; 🐧 Bash &nbsp; • &nbsp; 🐬 SQL &nbsp; • &nbsp; 🐊 C &nbsp; • &nbsp; 🐉 C++ &nbsp; • &nbsp; 🐎 Java &nbsp; • &nbsp; 🐁 Dart
 
 ##### frameworks
-Flutter &nbsp; • &nbsp; .NET &nbsp; • &nbsp; PySide &nbsp; • &nbsp; JUnit
+Flutter &nbsp; • &nbsp; DotNet &nbsp; • &nbsp; PySide &nbsp; • &nbsp; JUnit
 
 ##### tools
 Git &nbsp; • &nbsp; Docker &nbsp; • &nbsp; Jenkins  &nbsp; • &nbsp; Vim &nbsp; • &nbsp; Linux &nbsp; • &nbsp; Kubernetes 
