@@ -4,19 +4,19 @@ Hi there 👋
 My name is moshe kravitz, currently working in a Devops job, and I'm a third year software engineering student.
 
 ##### languages
-🐍 Python $~~$•$~~$🐧 Bash $~~$•$~~$ 🐬 SQL $~~$•$~~$ 🐊 C $~~$•$~~$ 🐉 C++ $~~$•$~~$ 🐎 Java $~~$•$~~$ 🐁 Dart
+🐍 Python $~~$ • $~~$ 🐧 Bash $~~$ • $~~$ 🐬 SQL $~~$ • $~~$ 🐊 C $~~$ • $~~$ 🐉 C++ $~~$ • $~~$ 🐎 Java $~~$ • $~~$ 🐁 Dart
 
 ##### frameworks
-Flutter $~~$•$~~$ .NET $~~$•$~~$ PySide $~~$•$~~$ JUnit
+Flutter $~~$ • $~~$ .NET $~~$ • $~~$ PySide $~~$ • $~~$ JUnit
 
 ##### tools
-Git $~~$•$~~$ Docker $~~$•$~~$ Jenkins  $~~$•$~~$ Vim $~~$•$~~$ Linux $~~$•$~~$ Kubernetes 
+Git $~~$ • $~~$ Docker $~~$ • $~~$ Jenkins  $~~$ • $~~$ Vim $~~$ • $~~$ Linux $~~$ • $~~$ Kubernetes 
 
 ##### databases
-SQLite $~~$•$~~$ MongoDB
+SQLite $~~$ • $~~$ MongoDB
 
 ##### other
-CI/CD $~~$•$~~$ TDD $~~$•$~~$ OOP $~~$•$~~$ REST $~~$•$~~$ Agile $~~$•$~~$ Scrum $~~$•$~~$ 
+CI/CD $~~$ • $~~$ TDD $~~$ • $~~$ OOP $~~$ • $~~$ REST $~~$ • $~~$ Agile $~~$ • $~~$ Scrum 
 
 
 ### ⚡ Fun fact:
